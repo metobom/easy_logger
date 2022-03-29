@@ -3,6 +3,7 @@ easy_logger is simple logger for Rust programming language that I wrote for gett
 * I would really appreciate any criticism or advice.
 
 # Including in your project
+* build easy_logger.
 * add 'easy_logger = { path = "/path/to/easy_logger" }' to Cargo.toml under [dependencies].
 * Then just build your project.
 
