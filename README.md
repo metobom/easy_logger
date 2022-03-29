@@ -1,7 +1,7 @@
 # easy_logger
 easy_logger is simple logger for Rust programming language that I wrote for getting used to Rust while I follow Rust book that is available for free in here: https://doc.rust-lang.org/book/ 
 * I would really appreciate any criticism or advice.
-
+* Inspired by: https://github.com/Delgan/loguru
 # Including in your project
 * build easy_logger.
 * add 'easy_logger = { path = "/path/to/easy_logger" }' to Cargo.toml under [dependencies].
